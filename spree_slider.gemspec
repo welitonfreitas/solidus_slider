@@ -17,5 +17,5 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'spree_core', '~> 3.1.0.beta'
-  s.add_dependency 'spree_backend', '>= 3.0.0.beta'
+  s.add_dependency 'spree_backend', '~> 3.1.0.beta'
 end
