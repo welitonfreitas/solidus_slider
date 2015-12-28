@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_slider'
+  s.name        = 'solidus_slider'
   s.version     = '1.2.0'
   s.summary     = 'Spree Slider extension'
   s.description = 'Adds a slider to the homepage'
@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 3.1.0.beta'
+  s.add_dependency 'solidus_core', '~> 3.1.0.beta'
   s.add_dependency 'spree_backend', '~> 3.1.0.beta'
 end
