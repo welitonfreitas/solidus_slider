@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_slider'
+  s.name        = 'spree_slider'
   s.version     = '1.2.0'
   s.summary     = 'Spree Slider extension'
   s.description = 'Adds a slider to the homepage'
